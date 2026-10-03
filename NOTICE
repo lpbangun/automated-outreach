@@ -1,0 +1,10 @@
+Standalone Outreach independently reimplements workflow patterns from:
+  contact-brief-treg-jev (Logani Bangun, 2026, MIT)
+  people-finder-jev-contact-pilot/experiments/jev-contact-pilot
+
+No JobSSS code or runtime is imported. Jev rubric and Treg normalization
+concepts are adapted with identity and budget checks. The original Contact
+Brief MIT notice is retained in LICENSE.contact-brief.
+
+Research runs, application packets and provider recordings are not part of
+this public distribution.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Standalone Outreach"
+  short_description: "Research contacts and prepare reviewed outreach drafts"
+  default_prompt: "Use $standalone-outreach to research relevant professional contacts and prepare evidence-backed unsent outreach."

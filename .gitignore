@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.key
+*.pem
+config.json
+.outreach/
+budget.json
+*.lock
+runs/
+private/
+.DS_Store
