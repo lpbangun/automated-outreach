@@ -1,4 +1,4 @@
-# Standalone Outreach
+# Automated Outreach
 
 A Codex skill for finding relevant professional contacts and preparing researched, tailored outreach. It includes work-email verification, LinkedIn/X research, dedicated drafting and independent critique. **It prepares drafts; it does not send them.**
 
@@ -24,10 +24,10 @@ Lead with the role or purpose, connect one supported piece of experience, offer 
 
 ## Install and use
 
-Clone this repository into your Codex skills directory, in a folder named `standalone-outreach`, then start a new session.
+Clone this repository into your Codex skills directory, in a folder named `automated-outreach`, then start a new session.
 
 ```text
-Use $standalone-outreach to research two relevant contacts at Example Company
+Use $automated-outreach to research two relevant contacts at Example Company
 for a partnership introduction. Use my supplied profile, include work email
 and X research, and prepare drafts without sending. Provider budget: $1 total,
 with $0.50 each for Treg and OpenRouter.

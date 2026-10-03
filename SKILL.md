@@ -1,5 +1,5 @@
 ---
-name: standalone-outreach
+name: automated-outreach
 description: Research relevant professional contacts, assess work emails and LinkedIn/X activity, and prepare cited unsent outreach with a dedicated writer and independent critique. Use for networking, job applications, partnerships or sales research; does not send messages.
 ---
 
